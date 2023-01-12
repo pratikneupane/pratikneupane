@@ -1,49 +1,46 @@
-<h1><code>$ who\am\i;</code></h1>  
-<h3>Lord Hendrix &lt;@lord_hendrix17&gt; Lord Hendrix, Pratik Neupane</h3>
-<div align="center" id="whoami">
-  <img src="https://cdn.discordapp.com/avatars/842764581498912778/9b45fa8d01f1ff92d74833d5253e9132.png?size=4096)" align="right"/>
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width=300 />
 
-Just Trying to build and break things
 
-  <hr width="10%">
-  <h1 id="skills">Skills (<a href="#" target="_blank">Résumé</a>)</h1>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logoColor=white&logo=html5">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logoColor=white&logo=python">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logoColor=white&logo=css3">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logoColor=black&logo=javascript">
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logoColor=white&logo=typescript">
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logoColor=white&logo=postgresql">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logoColor=white&logo=mongodb">
-  <!-- <img src="https://img.shields.io/badge/Go_Lang-00ADD8?style=for-the-badge&logoColor=white&logo=go"> -->
-  <img src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logoColor=FF9900&logo=amazon-aws">
-  <img src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logoColor=white&logo=vim">
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logoColor=white&logo=nodedotjs">
-  <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logoColor=white&logo=django">
-  <img src="https://img.shields.io/badge/FastAPI-109989?style=for-the-badge&logoColor=white&logo=fastapi">
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logoColor=white&logo=flask">
-  <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logoColor=white&logo=docker">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logoColor=white&logo=git">
-  <img src="https://img.shields.io/badge/Rust-grey?style=for-the-badge&logoColor=white&logo=rust">
-  <hr width="40%">
-  <div id="stats">
-    <img alt="Lord's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=naryal2580&line_height=20&show_icons=true&include_all_commits=true&theme=tokyonight&cache_seconds=1800&custom_title=Nick's%20Github%20Stats" height=180>
-    <img alot="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naryal2580&theme=tokyonight&show_icons=true&hide=html,css,ocaml&langs_count=3&custom_title=Most%20Used%20Languages" height=180>
-  <br><hr width="40%">
-  </div>
-  <div id="contact">
-    <a href="https://is.gd/hello_nick" target="_blank"><img alt="Discord" src="https://edent.github.io/SuperTinyIcons/images/svg/discord.svg" width="48"></a>
-    <a href="https://t.me/n4ry4l2580" target="_blank"><img alt="Telegram" src="https://edent.github.io/SuperTinyIcons/images/svg/telegram.svg" width="48"></a>
-    <a href="https://m.me/n4ry4l2580" target="_blank"><img alt="Messenger" src="https://edent.github.io/SuperTinyIcons/images/svg/messenger.svg" width="48"></a>
-    <a href="mailto:naryal2580@gmail.com" target="_blank"><img alt="E-mail" src="https://edent.github.io/SuperTinyIcons/images/svg/gmail.svg" width="48"></a>
-    <a href="https://twitter.com/naryal2580" target="_blank"><img alt="Twitter" src="https://edent.github.io/SuperTinyIcons/images/svg/twitter.svg" width="48"></a>
-    <a href="https://instagram.com/naryal2580" target="_blank"><img alt="Instagram" src="https://edent.github.io/SuperTinyIcons/images/svg/instagram.svg" width="48"></a>
-    <a href="https://facebook.com/n4ry4l2580" target="_blank"><img alt="Facebook" src="https://edent.github.io/SuperTinyIcons/images/svg/facebook.svg" width="48"></a>
-    <a href="https://www.youtube.com/c/CaptainNickLucifer" target="_blank"><img alt="YouTube" src="https://edent.github.io/SuperTinyIcons/images/svg/youtube.svg" width="48"></a>
-    <a href="https://is.gd/linkedin_nick" target="_blank"><img alt="LinkedIn" src="https://edent.github.io/SuperTinyIcons/images/svg/linkedin.svg" width="48"></a>
-    <a href="https://is.gd/call_nick" target="_blank"><img alt="Call Him" src="https://edent.github.io/SuperTinyIcons/images/svg/phone.svg" width="48"></a>
-  </div>
-</div>
+<img src="https://img.shields.io/badge/-Pratik%20Neupane.-red?style=for-the-badge" width=400>
 
-<hr>
 
-<u><i>\*<b>Lucifer</b>, pronounced <b>Lu-cipher</b></i>.</u>
+
+<img src="https://img.shields.io/badge/-Fullstack%20MERN%20Developer%20-black?style=for-the-badge" width=400>
+
+<h2>Connect With Me</h2>
+
+
+
+<a href="mailto:pratikneupane@proton.me">
+  <img src="https://img.shields.io/badge/Proton%20Mail-6d4bfe?style=for-the-badge&logo=protonmail&logoColor=white">
+</a> 
+<a href="https://www.facebook.com/pratikneupane17">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+</a> 
+<a href="https://www.linkedin.com/in/lordhendrix40/">
+  <img src="https://img.shields.io/badge/Linkedin-1877F2?style=for-the-badge&logo=linkedin&logoColor=white">
+</a> 
+<a href="https://twitter.com/lordhendrix_17">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
+</a> 
+
+
+
+## Skills
+
+
+![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![](https://img.shields.io/badge/GraphQL-e00097?style=for-the-badge&logo=graphql&logoColor=white)
+![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
