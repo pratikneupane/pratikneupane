@@ -41,8 +41,8 @@
 ## Github Stats
 
 <p>
-<img align="center" width="350px" src="https://github-readme-stats.vercel.app/api?username=pratikneupane&show_icons=true&locale=en" alt="pratikneupane" />
+<img align="center" width="550px" src="https://github-readme-stats.vercel.app/api?username=pratikneupane&show_icons=true&locale=en" alt="pratikneupane" />
 </p>
 <p>
-<img width="350px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikneupane&" alt="pratikneupane" />
+<img width="550px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikneupane&" alt="pratikneupane" />
 </p>
