@@ -38,8 +38,7 @@
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Bash-030303?style=for-the-badge&logo=shell&logoColor=white)
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikneupane&show_icons=true&locale=en&layout=compact" alt="pratikneupane" /></p>
+## Github Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikneupane&show_icons=true&locale=en" alt="pratikneupane" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikneupane&" alt="pratikneupane" /></p>
+<p><img align="left" width="350px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikneupane&show_icons=true&locale=en&layout=compact" alt="pratikneupane" />
+<img align="center" width="350px" src="https://github-readme-stats.vercel.app/api?username=pratikneupane&show_icons=true&locale=en" alt="pratikneupane" /><img width="350px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikneupane&" alt="pratikneupane" /></p>
