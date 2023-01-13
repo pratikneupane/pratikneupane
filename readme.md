@@ -1,15 +1,10 @@
 <img align="right" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width=300 />
 
-
 <img src="https://img.shields.io/badge/-Pratik%20Neupane.-black?style=for-the-badge" width=400>
-
-
 
 <img src="https://img.shields.io/badge/-Fullstack%20MERN%20Developer%20-black?style=for-the-badge" width=400>
 
 <h2>Connect With Me</h2>
-
-
 
 <a href="mailto:pratikneupane@proton.me">
   <img src="https://img.shields.io/badge/Proton%20Mail-6d4bfe?style=for-the-badge&logo=protonmail&logoColor=white">
@@ -22,12 +17,9 @@
 </a> 
 <a href="https://twitter.com/lordhendrix_17">
   <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white">
-</a> 
-
-
+</a>
 
 ## Skills
-
 
 ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
@@ -45,3 +37,9 @@
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Bash-030303?style=for-the-badge&logo=shell&logoColor=white)
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikneupane&show_icons=true&locale=en&layout=compact" alt="pratikneupane" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pratikneupane&show_icons=true&locale=en" alt="pratikneupane" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikneupane&" alt="pratikneupane" /></p>
