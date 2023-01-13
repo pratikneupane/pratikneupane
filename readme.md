@@ -1,7 +1,7 @@
 <img align="right" alt="GIF" src="https://media4.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width=300 />
 
 
-<img src="https://img.shields.io/badge/-Pratik%20Neupane.-red?style=for-the-badge" width=400>
+<img src="https://img.shields.io/badge/-Pratik%20Neupane.-black?style=for-the-badge" width=400>
 
 
 
