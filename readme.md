@@ -40,12 +40,12 @@
 
 ## Github Stats
 
-<!-- <p>
-<img align="left" width="550px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikneupane&show_icons=true&locale=en" alt="pratikneupane" />
+<p>
+<img align="left" width="550px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikneupane&theme=chartreuse-dark&hide_border=true&include_all_commits=True&count_private=true" alt="pratikneupane" />
 </p>
-<p> -->
-<!-- <img align="center" width="350px" src="https://github-readme-stats.vercel.app/api?username=pratikneupane&show_icons=true&locale=en" alt="pratikneupane" />
+<!-- <p> 
+<img align="center" width="550px" src="https://github-readme-stats.vercel.app/api?username=pratikneupane&theme=chartreuse-dark&hide_border=true&include_all_commits=True&count_private=true" alt="pratikneupane" />
 </p> -->
 <p>
-<img width="550px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikneupane&" alt="pratikneupane" />
+<img width="550px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikneupane&theme=chartreuse-dark&hide_border=true&include_all_commits=True&count_private=true" alt="pratikneupane" />
 </p>
