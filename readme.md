@@ -40,12 +40,12 @@
 
 ## Github Stats
 
-<!-- <p>
+<p>
 <img align="left" width="550px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikneupane&theme=chartreuse-dark&hide_border=true&include_all_commits=True&count_private=true" alt="pratikneupane" />
-</p> -->
-<!-- <p> 
+</p>
+<p> 
 <img align="center" width="550px" src="https://github-readme-stats.vercel.app/api?username=pratikneupane&theme=chartreuse-dark&hide_border=true&include_all_commits=True&count_private=true" alt="pratikneupane" />
-</p> -->
+</p>
 <p>
 <img width="550px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikneupane&theme=chartreuse-dark&hide_border=true&include_all_commits=True&count_private=true" alt="pratikneupane" />
 </p>
