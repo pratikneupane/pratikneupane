@@ -55,5 +55,10 @@
 <img align="center" width="550px" src="https://github-readme-stats.vercel.app/api?username=pratikneupane&theme=chartreuse-dark&hide_border=true&include_all_commits=True&count_private=true" alt="pratikneupane" />
 </p> -->
 <p>
-<img width="550px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikneupane&theme=chartreuse-dark&hide_border=true&include_all_commits=True&count_private=true" alt="pratikneupane" />
+<img width="780px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikneupane&theme=chartreuse-dark&hide_border=true&include_all_commits=True&count_private=true" alt="pratikneupane" />
 </p>
+
+
+
+<img src="https://github-readme-stats.vercel.app/api?username=pratikneupane&theme=chartreuse-dark&hide_border=true&count_private=true&show_icons=true" height=200>  
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pratikneupane&langs_count=3&theme=chartreuse-dark&hide_border=true&show_icons=true&hide=html,css,glsl" height=200>
