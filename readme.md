@@ -34,18 +34,19 @@
 ![](https://img.shields.io/badge/GraphQL-e00097?style=for-the-badge&logo=graphql&logoColor=white)
 ![](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
+![](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
 ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![](https://img.shields.io/badge/Bash-030303?style=for-the-badge&logo=shell&logoColor=white)
 
 ## Github Stats
 
-<p>
+<!-- <p>
 <img align="left" width="550px" src="https://github-readme-stats.vercel.app/api/top-langs?username=pratikneupane&theme=chartreuse-dark&hide_border=true&include_all_commits=True&count_private=true" alt="pratikneupane" />
-</p>
-<p> 
+</p> -->
+<!-- <p> 
 <img align="center" width="550px" src="https://github-readme-stats.vercel.app/api?username=pratikneupane&theme=chartreuse-dark&hide_border=true&include_all_commits=True&count_private=true" alt="pratikneupane" />
-</p>
+</p> -->
 <p>
 <img width="550px" align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pratikneupane&theme=chartreuse-dark&hide_border=true&include_all_commits=True&count_private=true" alt="pratikneupane" />
 </p>
